@@ -1,3 +1,6 @@
+##Изменение в branch1
+Новый коммит
+
 # Airbnb JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
